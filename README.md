@@ -1,4 +1,5 @@
 # Reinforcement-Learning-with-Pygame
+Train an AI bot to play snake game
 
 ## Introduction
 The goal of this project is to develop an AI based bot which can learn how to play a popular game SNAKE from scratch using deep reinforcement learning algorithm. The game is developed using pygame library and is trained using keras and tensorflow libraries. The approach is simple. Some state parameters are defined and based on state and actions corresponding positive or negative reward is given to the bot. Initially the bot has no information about the game and it developes a strategy to figure out how to play and how to maximize the score or reward.
