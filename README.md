@@ -8,8 +8,8 @@ This project requires python 3.7 with pygame, keras, tensorflow libraries instal
 
 ## Run
 To run this game, execute the following command
-'''
+```
     python main.py
-'''
+```
 This will run and show the agent. The default configuration loads the file Weights/weights.hdf5 and runs a test. The Deep neural network can be customized in the file main.py modifying the dictionary params in the function define_parameters() or by adding corresponding arguments in terminal.
 
